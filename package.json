@@ -21,7 +21,7 @@
     "lint": "eslint --ext js,ts"
   },
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.9.1",
     "@actions/exec": "^1.0.4",
     "@actions/github": "^4.0.0",
     "@octokit/types": "^6.3.1"
